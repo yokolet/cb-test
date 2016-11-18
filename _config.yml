@@ -1,0 +1,26 @@
+title: ClojureBridge Test Website
+name: Foundation5/github pages/Jykill starter
+brand: ClojureBridge Test
+#url: http://clojurebridge.org
+url: /cb-test/
+description: ClojureBridge aims to increase diversity within the Clojure
+  community by offering free, beginner-friendly Clojure programming workshops
+  for women.
+
+baseurl: /cb-test
+email: yokolet@gmail.com
+twitter: yokolet
+github: yokolet
+author: Yoko Harada
+year: 2016
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - tmp
