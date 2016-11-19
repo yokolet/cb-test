@@ -4071,6 +4071,13 @@ h1, h2, h3, h4, h5, h6 {
   .title-bar .title-bar-title {
     font-weight: 800; }
 
+.header-content {
+  border-width: 5px 0 3px;
+  border-style: solid;
+  border-color: rgb(51, 52, 62);
+  overflow: auto;
+}
+
 #home {
   float: left;
   margin: 12px 0 12px 15px;
