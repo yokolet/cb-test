@@ -4070,3 +4070,28 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 0 10px rgba(138, 138, 138, 0.3); }
   .title-bar .title-bar-title {
     font-weight: 800; }
+
+#home {
+  float: left;
+  margin: 12px 0 12px 15px;
+  display: block;
+  width: 120px;
+  height: 120px;
+  background: url(/cb-test/assets/images/logo-small.png);
+  line-height: 999;
+  overflow: hidden;
+}
+
+#banner-picture {
+  margin: 0;
+  border-bottom: 3px solid rgb(51, 52, 62);
+  background: url(/cb-test/assets/images/hammock.jpg) 0 -1.25em;
+  padding: 1em 1em 2.25em;
+}
+
+#events {
+  border-bottom: 3px solid rgb(51, 52, 62);
+  background: url(/cb-test/assets/images/honeycomb-bg.png);
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}

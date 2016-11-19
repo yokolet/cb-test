@@ -2,11 +2,11 @@ title: ClojureBridge Test Website
 name: Foundation5/github pages/Jykill starter
 brand: ClojureBridge Test
 #url: http://clojurebridge.org
-url: /cb-test/
 description: ClojureBridge aims to increase diversity within the Clojure
   community by offering free, beginner-friendly Clojure programming workshops
   for women.
 
+port: 3333
 baseurl: /cb-test
 email: yokolet@gmail.com
 twitter: yokolet
